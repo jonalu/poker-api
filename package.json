@@ -1,0 +1,22 @@
+{
+  "name": "poker-api",
+  "version": "1.0.0",
+  "description": "Fetch exported xml from tournament director and expose api",
+  "main": "app.js",
+  "scripts": {
+    "start": "PORT=3000 EXPORT_FOLDER=/media/sf_workspace/tmp/poker-exports nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poker",
+    "xml",
+    "json",
+    "api"
+  ],
+  "author": "Jonas Lundeland",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2",
+    "xml2js": "^0.4.13"
+  }
+}
