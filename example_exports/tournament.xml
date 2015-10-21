@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pXML>
+ <MessageInfo>
+  <Version>1.0</Version>
+  <DocumentType>PokerDIY_Game</DocumentType>
+  <Source>TD</Source>
+  <SourceVersion>3.3</SourceVersion>
+  <SourceDate>2015-10-21 18:00:26</SourceDate>
+ </MessageInfo>
+ <Games>
+  <Game>
+   <League>
+    <LeagueID></LeagueID>
+    <ExternalLeagueID>77854dc0-77e1-11e5-2d5c-a305d293cd32</ExternalLeagueID>
+    <LeagueName>Poker NM 2015</LeagueName>
+    <Season>
+     <SeasonID></SeasonID>
+     <ExternalSeasonID>7ef4af60-77e1-11e5-2d5c-f33f10fa9594</ExternalSeasonID>
+     <SeasonName>2015</SeasonName>
+    </Season>
+   </League>
+   <GameID></GameID>
+   <ExternalGameID>27ffacd0-77ed-11e5-2d5c-152e070df5db</ExternalGameID>
+   <GameName>Poker NM 2015</GameName>
+   <GameDescription></GameDescription>
+   <GameComments></GameComments>
+   <GameStartDate>2015-10-21 16:13:36</GameStartDate>
+   <GameEndDate></GameEndDate>
+   <GameTypeID>2</GameTypeID>
+   <CurrencySymbol>$</CurrencySymbol>
+   <TotalPrizePool>10000</TotalPrizePool>
+   <GameBuyIn>100</GameBuyIn>
+   <RebuyAmount>0</RebuyAmount>
+   <AllowRebuys>0</AllowRebuys>
+   <AddOnAmount>0</AddOnAmount>
+   <AllowAddOns>0</AllowAddOns>
+   <BountiesAllowed>0</BountiesAllowed>
+   <Players>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>d24f2fa0-77e1-11e5-2d5c-3e265ae165e2</ExternalPlayerID>
+     <PlayerName>Jonas</PlayerName>
+     <FirstName>Jonas</FirstName>
+     <LastName>Lundeland</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>0</Rank>
+     <BuyIn>100</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>10</TotalRake>
+     <TotalCost>100</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>0</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID></HitmanID>
+     <TimeOutDate></TimeOutDate>
+     <RoundOut></RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>10</TotalBuyInRake>
+     <BuyInChips>1000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>49334840-77e2-11e5-2d5c-718599f80d88</ExternalPlayerID>
+     <PlayerName>Kristin</PlayerName>
+     <FirstName>Kristin</FirstName>
+     <LastName>Brekke</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>0</Rank>
+     <BuyIn>100</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>0</TotalRake>
+     <TotalCost>100</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>0</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID></HitmanID>
+     <TimeOutDate></TimeOutDate>
+     <RoundOut></RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>0</TotalBuyInRake>
+     <BuyInChips>1000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>b3ab6900-77fb-11e5-2d5c-6a15f0dd12b6</ExternalPlayerID>
+     <PlayerName>Vegard</PlayerName>
+     <FirstName>Vegard</FirstName>
+     <LastName>Nilsen</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>0</Rank>
+     <BuyIn>100</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>0</TotalRake>
+     <TotalCost>100</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>0</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID></HitmanID>
+     <TimeOutDate></TimeOutDate>
+     <RoundOut></RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>0</TotalBuyInRake>
+     <BuyInChips>1000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>c8ce0630-77fb-11e5-2d5c-3d7df5c3a7bb</ExternalPlayerID>
+     <PlayerName>Peder</PlayerName>
+     <FirstName>Peder Hans</FirstName>
+     <LastName>Øverland</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>0</Rank>
+     <BuyIn>100</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>0</TotalRake>
+     <TotalCost>100</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>0</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID></HitmanID>
+     <TimeOutDate></TimeOutDate>
+     <RoundOut></RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>0</TotalBuyInRake>
+     <BuyInChips>1000</BuyInChips>
+    </Player>
+    <Player>
+     <PlayerID></PlayerID>
+     <ExternalPlayerID>d1af2040-77fb-11e5-2d5c-5c3d7abb2802</ExternalPlayerID>
+     <PlayerName>Gangsto</PlayerName>
+     <FirstName>Kenneth</FirstName>
+     <LastName>Gangstø</LastName>
+     <Email></Email>
+     <Email2></Email2>
+     <Rank>0</Rank>
+     <BuyIn>100</BuyIn>
+     <Rebuys>0</Rebuys>
+     <RebuysCost>0</RebuysCost>
+     <RebuysChips>0</RebuysChips>
+     <TotalRebuysRake>0</TotalRebuysRake>
+     <AddOns>0</AddOns>
+     <AddOnsCost>0</AddOnsCost>
+     <AddOnsChips>0</AddOnsChips>
+     <TotalAddOnsRake>0</TotalAddOnsRake>
+     <TotalRake>0</TotalRake>
+     <TotalCost>100</TotalCost>
+     <TotalWinnings>0</TotalWinnings>
+     <Payout>0</Payout>
+     <Points>0</Points>
+     <Knockouts>0</Knockouts>
+     <BountyCost>0</BountyCost>
+     <KnockoutRevenue>0</KnockoutRevenue>
+     <HitmanID></HitmanID>
+     <TimeOutDate></TimeOutDate>
+     <RoundOut></RoundOut>
+     <Paid>1</Paid>
+     <BountiesWon>0</BountiesWon>
+     <TotalBuyInRake>0</TotalBuyInRake>
+     <BuyInChips>1000</BuyInChips>
+    </Player>
+   </Players>
+   <GameHistory>
+    <History>
+     <TimeStamp>2015-10-21 15:19:21</TimeStamp>
+     <Summary>Jonas bought-in (Fee: $100.00, Rake: $10.00, Chips: $1,000, Points: 0.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 15:19:29</TimeStamp>
+     <Summary>Kristin bought-in (Fee: $100.00, Rake: $0.00, Chips: $1,000, Points: 0.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:12:32</TimeStamp>
+     <Summary>Start of pre-tournament countdown</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:13:32</TimeStamp>
+     <Summary>End of pre-tournament countdown</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:13:36</TimeStamp>
+     <Summary>Tournament started</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:13:36</TimeStamp>
+     <Summary>bord 1, Seat 1: Kristin</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:13:36</TimeStamp>
+     <Summary>bord 1, Seat 2: Jonas</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:13:36</TimeStamp>
+     <Summary>Start of round 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:43:36</TimeStamp>
+     <Summary>End of round 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 16:43:40</TimeStamp>
+     <Summary>Start of round 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:13:40</TimeStamp>
+     <Summary>End of round 2</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:13:44</TimeStamp>
+     <Summary>Start of break 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:23:44</TimeStamp>
+     <Summary>End of break 1</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:23:48</TimeStamp>
+     <Summary>Start of round 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:53:48</TimeStamp>
+     <Summary>End of round 3</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:53:52</TimeStamp>
+     <Summary>Start of round 4</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:59:37</TimeStamp>
+     <Summary>Gangsto bought-in (Fee: $100.00, Rake: $0.00, Chips: $1,000, Points: 0.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:59:42</TimeStamp>
+     <Summary>Peder bought-in (Fee: $100.00, Rake: $0.00, Chips: $1,000, Points: 0.00, Profile: Master)</Summary>
+    </History>
+    <History>
+     <TimeStamp>2015-10-21 17:59:44</TimeStamp>
+     <Summary>Vegard bought-in (Fee: $100.00, Rake: $0.00, Chips: $1,000, Points: 0.00, Profile: Master)</Summary>
+    </History>
+   </GameHistory>
+  </Game>
+ </Games>
+</pXML>

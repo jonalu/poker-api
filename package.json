@@ -4,7 +4,7 @@
   "description": "Fetch exported xml from tournament director and expose api",
   "main": "app.js",
   "scripts": {
-    "start": "PORT=3000 EXPORT_FOLDER=/media/sf_workspace/tmp/poker-exports nodemon app.js",
+    "start": "PORT=3000 EXPORT_FOLDER=./example_exports nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
