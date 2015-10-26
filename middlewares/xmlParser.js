@@ -29,6 +29,7 @@ var apiGameMapping = {
 };
 
 var apiPlayerMapping = {
+  id: ['ExternalPlayerID'],
   firstName: ['FirstName'],
   lastName: ['LastName'],
   playerName: ['PlayerName'],
